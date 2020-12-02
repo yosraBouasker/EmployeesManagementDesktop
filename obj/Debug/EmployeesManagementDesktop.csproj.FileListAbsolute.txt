@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EmployeesManagementDesktop.exe.config
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EmployeesManagementDesktop.exe
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EmployeesManagementDesktop.pdb
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\obj\Debug\EmployeesManagementDesktop.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\obj\Debug\EmployeesManagementDesktop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\obj\Debug\EmployeesManagementDesktop.csproj.CopyComplete
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\obj\Debug\EmployeesManagementDesktop.exe
+C:\Users\DELL\source\repos\EmployeesManagementDesktop\EmployeesManagementDesktop\obj\Debug\EmployeesManagementDesktop.pdb
